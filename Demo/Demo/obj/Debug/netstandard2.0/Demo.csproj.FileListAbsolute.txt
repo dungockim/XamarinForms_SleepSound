@@ -1,0 +1,15 @@
+D:\Xamarin\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.deps.json
+D:\Xamarin\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.dll
+D:\Xamarin\Demo\Demo\Demo\bin\Debug\netstandard2.0\Demo.pdb
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csprojAssemblyReference.cache
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.csproj.CoreCompileInputs.cache
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfoInputs.cache
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.AssemblyInfo.cs
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.dll
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Demo.pdb
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Tab\MixesPage.xaml.g.cs
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Tab\SettingPage.xaml.g.cs
+D:\Xamarin\Demo\Demo\Demo\obj\Debug\netstandard2.0\Tab\SoundPage.xaml.g.cs
